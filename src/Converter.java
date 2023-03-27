@@ -1,8 +1,8 @@
 class Converter {
-    int centimetersInStep = 75;
-    int caloriesInStep = 50;
-    int caloriesInKilocalorie = 1000;
-    int centimetersInKilometer = 100000;
+    final int centimetersInStep = 75;
+    final int caloriesInStep = 50;
+    final int caloriesInKilocalorie = 1000;
+    final int centimetersInKilometer = 100000;
 
     int convertToKm(int steps) {
         return (steps*centimetersInStep)/centimetersInKilometer;
