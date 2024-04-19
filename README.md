@@ -28,7 +28,7 @@
 
 Чтобы запустить приложение, выполните следующие шаги:
 1. Установите Java Runtime Environment (JRE) по [ссылке](https://www.oracle.com/java/technologies/downloads/#java8-windows)
-2. Скачайте репозиторий с приложением: git pull https://github.com/Alex-Naumenko1986/java-sprint1-hw.git
+2. Скачайте репозиторий с приложением: git pull https://github.com/Alex-Naumenko1986/step-tracker.git
 3. Перейдите в папку с проектом: cd hw1
 4. Запустите приложение командой: java -jar stepCounter.jar
 
